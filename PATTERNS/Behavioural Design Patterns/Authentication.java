@@ -1,3 +1,4 @@
+//Strategy Method
 interface AuthenticationStrategy {
     boolean authenticate(String username, String credential);
 }
