@@ -83,11 +83,9 @@ The system provides warnings for skipped meals, insufficient exercise, and misse
 This project ensures that astronauts maintain a healthy and productive routine while accommodating the diverse tasks required for different missions.                                                                                                                                                                                                         
 
 Conclusion
-The Astronaut Daily Schedule Organizer project aims to provide a well-structured and optimized daily routine for astronauts, ensuring that essential activities such as exercise, meals, breaks, and sleep are properly scheduled and adhered to. By following best coding practices, design patterns, and SOLID principles, this application aims to enhance the efficiency and well-being of astronauts during their missions.
+The project illustrates various design patterns, each demonstrating unique strategies for solving common design problems. The Astronaut Daily Schedule Organizer project aims to provide a well-structured and optimized daily routine for astronauts, ensuring that essential activities such as exercise, meals, breaks, and sleep are properly scheduled and adhered to. By following best coding practices, design patterns, and SOLID principles, this application aims to enhance the efficiency and well-being of astronauts during their missions.
 
 **Contact Information
-
-For any questions, suggestions, or contributions, please contact:
 
 Project Maintainer: Bhagampriyal M
 Email: bhagampriyal1@gmail.com
