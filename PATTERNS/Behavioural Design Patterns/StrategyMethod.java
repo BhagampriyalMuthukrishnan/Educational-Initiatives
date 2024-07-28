@@ -45,7 +45,7 @@ class AuthenticationContext {
     }
 }
 
-public class Authentication {
+public class StrategyMethod {
     public static void main(String[] args) {
         AuthenticationContext context = new AuthenticationContext();
 
