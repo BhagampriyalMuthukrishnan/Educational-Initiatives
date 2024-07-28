@@ -75,7 +75,7 @@ Saves and retrieves tasks to and from a file.
 - Completing Tasks: Confirm task completion.
 - Generating Reports: Generate a daily report detailing completed tasks, exercise time, breaks, and warnings for missed meals or insufficient exercise.
 
-# *Important Notes*:
+# *Notable Considerations*:
 
 - Tasks cannot be scheduled during the sleep period (9:30 PM to 6:00 AM).
 - Only medical checkups can be scheduled between 10:00 AM and 11:00 AM.
